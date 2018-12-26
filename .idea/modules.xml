@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ObjectOrientedDesign.iml" filepath="$PROJECT_DIR$/.idea/ObjectOrientedDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/BusFareCard.iml" filepath="$PROJECT_DIR$/.idea/BusFareCard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoffeeMaker/CoffeeMaker.iml" filepath="$PROJECT_DIR$/CoffeeMaker/CoffeeMaker.iml" />
     </modules>
   </component>
 </project>

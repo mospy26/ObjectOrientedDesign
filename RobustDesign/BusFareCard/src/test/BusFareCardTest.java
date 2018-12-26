@@ -1,6 +1,6 @@
 package test;
 
-import exceptions.IllegalAgeException;
+import IllegalAgeException;
 import exceptions.NoBalanceException;
 
 import model.BusFareCard;
