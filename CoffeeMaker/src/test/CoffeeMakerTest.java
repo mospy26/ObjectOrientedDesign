@@ -17,7 +17,6 @@ public class CoffeeMakerTest {
 
     @Before
     public void setUp(){
-        // TODO: instantiate your test objects here
         coffee = new CoffeeMaker(10, 80);
     }
 
